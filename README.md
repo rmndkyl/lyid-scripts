@@ -15,13 +15,14 @@
 | [Orbition Network Bot](https://github.com/rmndkyl/orbition-bot) | Mining + Quests | EVM | Rp 65.000 | $4 |
 | [KieDex Bot](https://github.com/rmndkyl/kiedex-bot) | Trade-to-Earn | Base (EVM) | Rp 80.000 | $5 |
 | [FLPP Bot](https://github.com/rmndkyl/flpp-bot) | DEX Aggregator Volume | Solana | Rp 80.000 | $5 |
+| [HertzFlow Bot](https://github.com/rmndkyl/hertzflow-bot) | Perpetual DEX Trading | BNB Chain | Rp 80.000 | $5 |
 
 ## Bundle Pricing
 
 | Bundle | Description | Price (IDR) | Price (USD) | Savings |
 |--------|-------------|-------------|-------------|---------|
 | **Starter** | Pick any 3 scripts | Rp 155.000 | ~$10 | 20% off |
-| **Pro** | All 9 scripts | Rp 485.000 | ~$31 | 30% off |
+| **Pro** | All 10 scripts | Rp 539.000 | ~$34 | 30% off |
 | **VIP Monthly** | All scripts + updates, 1 month | Rp 200.000/bulan | ~$13/month | Best value |
 
 ## How to Purchase
