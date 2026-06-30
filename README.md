@@ -13,13 +13,14 @@
 | [Watt2Trade Bot](https://github.com/rmndkyl/watt2trade-bot) | Testnet Farming | EVM | Rp 65.000 | $4 |
 | [Afyniti Bot](https://github.com/rmndkyl/afyniti-bot) | XP Social Tasks | Telos (EVM) | Rp 65.000 | $4 |
 | [Orbition Network Bot](https://github.com/rmndkyl/orbition-bot) | Mining + Quests | EVM | Rp 65.000 | $4 |
+| [KieDex Bot](https://github.com/rmndkyl/kiedex-bot) | Trade-to-Earn | Base (EVM) | Rp 80.000 | $5 |
 
 ## Bundle Pricing
 
 | Bundle | Description | Price (IDR) | Price (USD) | Savings |
 |--------|-------------|-------------|-------------|---------|
 | **Starter** | Pick any 3 scripts | Rp 155.000 | ~$10 | 20% off |
-| **Pro** | All 7 scripts | Rp 370.000 | ~$24 | 30% off |
+| **Pro** | All 8 scripts | Rp 425.000 | ~$27 | 30% off |
 | **VIP Monthly** | All scripts + updates, 1 month | Rp 200.000/bulan | ~$13/month | Best value |
 
 ## How to Purchase
