@@ -4,18 +4,18 @@
 
 ## Available Scripts
 
-| Script | Category | Chain | Price (IDR) | Price (USD) |
-|--------|----------|-------|-------------|-------------|
-| [Canopy Network Bot](https://github.com/rmndkyl/canopy-bot) | Testnet Farming | Canopy (EVM) | Rp 80.000 | $5 |
-| [UpOnly Bot](https://github.com/rmndkyl/uponly-bot) | On-Chain Volume | Solana | Rp 95.000 | $6 |
-| [Unicity Network Bot](https://github.com/rmndkyl/unicity-bot) | Quest Platform | Unicity | Rp 95.000 | $6 |
-| [SimpleChain Bot](https://github.com/rmndkyl/simplechain-bot) | Testnet + Faucet | SimpleChain (EVM) | Rp 65.000 | $4 |
-| [Watt2Trade Bot](https://github.com/rmndkyl/watt2trade-bot) | Testnet Farming | EVM | Rp 65.000 | $4 |
-| [Afyniti Bot](https://github.com/rmndkyl/afyniti-bot) | XP Social Tasks | Telos (EVM) | Rp 65.000 | $4 |
-| [Orbition Network Bot](https://github.com/rmndkyl/orbition-bot) | Mining + Quests | EVM | Rp 65.000 | $4 |
-| [KieDex Bot](https://github.com/rmndkyl/kiedex-bot) | Trade-to-Earn | Base (EVM) | Rp 80.000 | $5 |
-| [FLPP Bot](https://github.com/rmndkyl/flpp-bot) | DEX Aggregator Volume | Solana | Rp 80.000 | $5 |
-| [HertzFlow Bot](https://github.com/rmndkyl/hertzflow-bot) | Perpetual DEX Trading | BNB Chain | Rp 80.000 | $5 |
+| Script | Website | Category | Chain | Price (IDR) | Price (USD) |
+|--------|---------|----------|-------|-------------|-------------|
+| [Canopy Network Bot](https://github.com/rmndkyl/canopy-bot) | [canopynetwork.org](https://rewards.testnet.app.canopynetwork.org) | Testnet Farming | Canopy (EVM) | Rp 80.000 | $5 |
+| [UpOnly Bot](https://github.com/rmndkyl/uponly-bot) | [uponly.space](https://uponly.space) | On-Chain Volume | Solana | Rp 95.000 | $6 |
+| [Unicity Network Bot](https://github.com/rmndkyl/unicity-bot) | [quest.unicity.network](https://quest.unicity.network) | Quest Platform | Unicity | Rp 95.000 | $6 |
+| [SimpleChain Bot](https://github.com/rmndkyl/simplechain-bot) | [task.simplechain.com](https://task.simplechain.com) | Testnet + Faucet | SimpleChain (EVM) | Rp 65.000 | $4 |
+| [Watt2Trade Bot](https://github.com/rmndkyl/watt2trade-bot) | [watt2trade.com](https://www.watt2trade.com/) | Testnet Farming | EVM | Rp 65.000 | $4 |
+| [Afyniti Bot](https://github.com/rmndkyl/afyniti-bot) | [afyniti.xyz](https://afyniti.xyz) | XP Social Tasks | Telos (EVM) | Rp 65.000 | $4 |
+| [Orbition Network Bot](https://github.com/rmndkyl/orbition-bot) | [orbition.network](https://airdrop.orbition.network) | Mining + Quests | EVM | Rp 65.000 | $4 |
+| [KieDex Bot](https://github.com/rmndkyl/kiedex-bot) | [kiedex.app](https://kiedex.app) | Trade-to-Earn | Base (EVM) | Rp 80.000 | $5 |
+| [FLPP Bot](https://github.com/rmndkyl/flpp-bot) | [flpp.io](https://flpp.io) | DEX Aggregator Volume | Solana | Rp 80.000 | $5 |
+| [HertzFlow Bot](https://github.com/rmndkyl/hertzflow-bot) | [hertzflow.xyz](https://testnet.hertzflow.xyz) | Perpetual DEX Trading | BNB Chain | Rp 80.000 | $5 |
 
 ## Bundle Pricing
 
