@@ -21,7 +21,7 @@
 | Bundle | Description | Price (IDR) | Price (USD) | Savings |
 |--------|-------------|-------------|-------------|---------|
 | **Starter** | Pick any 3 scripts | Rp 155.000 | ~$10 | 20% off |
-| **Pro** | All 9 scripts | Rp 460.000 | ~$29 | 30% off |
+| **Pro** | All 9 scripts | Rp 485.000 | ~$31 | 30% off |
 | **VIP Monthly** | All scripts + updates, 1 month | Rp 200.000/bulan | ~$13/month | Best value |
 
 ## How to Purchase
