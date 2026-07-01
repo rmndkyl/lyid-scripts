@@ -16,13 +16,14 @@
 | [KieDex Bot](https://github.com/rmndkyl/kiedex-bot) | [kiedex.app](https://kiedex.app) | Trade-to-Earn | Base (EVM) | Rp 80.000 | $5 |
 | [FLPP Bot](https://github.com/rmndkyl/flpp-bot) | [flpp.io](https://flpp.io) | DEX Aggregator Volume | Solana | Rp 80.000 | $5 |
 | [HertzFlow Bot](https://github.com/rmndkyl/hertzflow-bot) | [hertzflow.xyz](https://testnet.hertzflow.xyz) | Perpetual DEX Trading | BNB Chain | Rp 80.000 | $5 |
+| [Convallax Bot](https://github.com/rmndkyl/convallax-bot) | [convallax.com](https://www.convallax.com/predict) | Options Trading | Polygon | Rp 65.000 | $4 |
 
 ## Bundle Pricing
 
 | Bundle | Description | Price (IDR) | Price (USD) | Savings |
 |--------|-------------|-------------|-------------|---------|
 | **Starter** | Pick any 3 scripts | Rp 155.000 | ~$10 | 20% off |
-| **Pro** | All 10 scripts | Rp 539.000 | ~$34 | 30% off |
+| **Pro** | All 11 scripts | Rp 570.000 | ~$36 | 30% off |
 | **VIP Monthly** | All scripts + updates, 1 month | Rp 200.000/bulan | ~$13/month | Best value |
 
 ## How to Purchase
