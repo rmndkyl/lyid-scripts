@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rmndkyl/lyid-scripts/master/3.png" width="400" alt="Layer Airdrop ID">
+</div>
+
 # LYID Scripts — Layer Airdrop ID
 
 > Premium airdrop automation scripts by **@rmndkyl**
