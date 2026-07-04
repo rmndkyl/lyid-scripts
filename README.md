@@ -23,13 +23,14 @@
 | [Convallax Bot](https://github.com/rmndkyl/convallax-bot) | [convallax.com](https://www.convallax.com/predict) | Options Trading | Polygon | Rp 65.000 | $4 |
 | [MeyHub Quiz Bot](https://github.com/rmndkyl/meyhub-bot) | [meyhub.io](https://meyhub.io) | Daily Quiz + Referral | Base (RWA) | Rp 80.000 | $5 |
 | [PeakAI Bot](https://github.com/rmndkyl/peakai-bot) | [takeapeak.ai](https://www.takeapeak.ai/genesis) | Daily Check-in + Referral | EVM | Rp 80.000 | $5 |
+| [Inception Bot](https://github.com/rmndkyl/inception-bot) | [inception.dachain.io](https://inception.dachain.io) | Testnet + Badges + Faucet | DAC Chain | Rp 80.000 | $5 |
 
 ## Bundle Pricing
 
 | Bundle | Description | Price (IDR) | Price (USD) | Savings |
 |--------|-------------|-------------|-------------|---------|
 | **Starter** | Pick any 3 scripts | Rp 175.000 | ~$11 | 20% off |
-| **Pro** | All 13 scripts | Rp 600.000 | ~$38 | 30% off |
+| **Pro** | All 14 scripts | Rp 670.000 | ~$42 | 30% off |
 | **VIP Monthly** | All scripts + updates, 1 month | Rp 200.000/bulan | ~$13/month | Best value |
 
 ## How to Purchase
