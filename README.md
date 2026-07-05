@@ -24,13 +24,14 @@
 | [MeyHub Quiz Bot](https://github.com/rmndkyl/meyhub-bot) | [meyhub.io](https://meyhub.io) | Daily Quiz + Referral | Base (RWA) | Rp 80.000 | $5 |
 | [PeakAI Bot](https://github.com/rmndkyl/peakai-bot) | [takeapeak.ai](https://www.takeapeak.ai/genesis) | Daily Check-in + Referral | EVM | Rp 80.000 | $5 |
 | [Inception Bot](https://github.com/rmndkyl/inception-bot) | [inception.dachain.io](https://inception.dachain.io) | Testnet + Badges + Faucet | DAC Chain | Rp 80.000 | $5 |
+| [Chesto Bot](https://github.com/rmndkyl/chesto-bot) | [chesto.ai](https://chesto.ai) | KARMA + USDC Social Tasks | Base | Rp 80.000 | $5 |
 
 ## Bundle Pricing
 
 | Bundle | Description | Price (IDR) | Price (USD) | Savings |
 |--------|-------------|-------------|-------------|---------|
 | **Starter** | Pick any 3 scripts | Rp 175.000 | ~$11 | 20% off |
-| **Pro** | All 14 scripts | Rp 670.000 | ~$42 | 30% off |
+| **Pro** | All 15 scripts | Rp 720.000 | ~$45 | 30% off |
 | **VIP Monthly** | All scripts + updates, 1 month | Rp 200.000/bulan | ~$13/month | Best value |
 
 ## How to Purchase
