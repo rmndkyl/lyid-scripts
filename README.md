@@ -10,29 +10,29 @@
 
 | Script | Website | Category | Chain | Price (IDR) | Price (USD) |
 |--------|---------|----------|-------|-------------|-------------|
-| [Canopy Network Bot](https://github.com/rmndkyl/canopy-bot) | [canopynetwork.org](https://rewards.testnet.app.canopynetwork.org) | Testnet Farming | Canopy (EVM) | Rp 80.000 | $5 |
-| [UpOnly Bot](https://github.com/rmndkyl/uponly-bot) | [uponly.space](https://uponly.space) | On-Chain Volume | Solana | Rp 95.000 | $6 |
-| [Unicity Network Bot](https://github.com/rmndkyl/unicity-bot) | [quest.unicity.network](https://quest.unicity.network) | Quest Platform | Unicity | Rp 95.000 | $6 |
-| [SimpleChain Bot](https://github.com/rmndkyl/simplechain-bot) | [task.simplechain.com](https://task.simplechain.com) | Testnet + Faucet | SimpleChain (EVM) | Rp 65.000 | $4 |
-| [Watt2Trade Bot](https://github.com/rmndkyl/watt2trade-bot) | [watt2trade.com](https://www.watt2trade.com/) | Testnet Farming | EVM | Rp 65.000 | $4 |
-| [Afyniti Bot](https://github.com/rmndkyl/afyniti-bot) | [afyniti.xyz](https://afyniti.xyz) | XP Social Tasks | Telos (EVM) | Rp 65.000 | $4 |
-| [Orbition Network Bot](https://github.com/rmndkyl/orbition-bot) | [orbition.network](https://airdrop.orbition.network) | Mining + Quests | EVM | Rp 65.000 | $4 |
-| [KieDex Bot](https://github.com/rmndkyl/kiedex-bot) | [kiedex.app](https://kiedex.app) | Trade-to-Earn | Base (EVM) | Rp 80.000 | $5 |
-| [FLPP Bot](https://github.com/rmndkyl/flpp-bot) | [flpp.io](https://flpp.io) | DEX Aggregator Volume | Solana | Rp 80.000 | $5 |
-| [HertzFlow Bot](https://github.com/rmndkyl/hertzflow-bot) | [hertzflow.xyz](https://testnet.hertzflow.xyz) | Perpetual DEX Trading | BNB Chain | Rp 80.000 | $5 |
-| [Convallax Bot](https://github.com/rmndkyl/convallax-bot) | [convallax.com](https://www.convallax.com/predict) | Options Trading | Polygon | Rp 65.000 | $4 |
-| [MeyHub Quiz Bot](https://github.com/rmndkyl/meyhub-bot) | [meyhub.io](https://meyhub.io) | Daily Quiz + Referral | Base (RWA) | Rp 80.000 | $5 |
-| [PeakAI Bot](https://github.com/rmndkyl/peakai-bot) | [takeapeak.ai](https://www.takeapeak.ai/genesis) | Daily Check-in + Referral | EVM | Rp 80.000 | $5 |
-| [Inception Bot](https://github.com/rmndkyl/inception-bot) | [inception.dachain.io](https://inception.dachain.io) | Testnet + Badges + Faucet | DAC Chain | Rp 80.000 | $5 |
-| [Chesto Bot](https://github.com/rmndkyl/chesto-bot) | [chesto.ai](https://chesto.ai) | KARMA + USDC Social Tasks | Base | Rp 80.000 | $5 |
+| [Canopy Network Bot](https://github.com/rmndkyl/canopy-bot) | [canopynetwork.org](https://rewards.testnet.app.canopynetwork.org) | Testnet Farming | Canopy (EVM) | Rp 120.000 | $8 |
+| [UpOnly Bot](https://github.com/rmndkyl/uponly-bot) | [uponly.space](https://uponly.space) | On-Chain Volume | Solana | Rp 150.000 | $10 |
+| [Unicity Network Bot](https://github.com/rmndkyl/unicity-bot) | [quest.unicity.network](https://quest.unicity.network) | Quest Platform | Unicity | Rp 150.000 | $10 |
+| [SimpleChain Bot](https://github.com/rmndkyl/simplechain-bot) | [task.simplechain.com](https://task.simplechain.com) | Testnet + Faucet | SimpleChain (EVM) | Rp 100.000 | $6 |
+| [Watt2Trade Bot](https://github.com/rmndkyl/watt2trade-bot) | [watt2trade.com](https://www.watt2trade.com/) | Testnet Farming | EVM | Rp 100.000 | $6 |
+| [Afyniti Bot](https://github.com/rmndkyl/afyniti-bot) | [afyniti.xyz](https://afyniti.xyz) | XP Social Tasks | Telos (EVM) | Rp 100.000 | $6 |
+| [Orbition Network Bot](https://github.com/rmndkyl/orbition-bot) | [orbition.network](https://airdrop.orbition.network) | Mining + Quests | EVM | Rp 100.000 | $6 |
+| [KieDex Bot](https://github.com/rmndkyl/kiedex-bot) | [kiedex.app](https://kiedex.app) | Trade-to-Earn | Base (EVM) | Rp 120.000 | $8 |
+| [FLPP Bot](https://github.com/rmndkyl/flpp-bot) | [flpp.io](https://flpp.io) | DEX Aggregator Volume | Solana | Rp 120.000 | $8 |
+| [HertzFlow Bot](https://github.com/rmndkyl/hertzflow-bot) | [hertzflow.xyz](https://testnet.hertzflow.xyz) | Perpetual DEX Trading | BNB Chain | Rp 120.000 | $8 |
+| [Convallax Bot](https://github.com/rmndkyl/convallax-bot) | [convallax.com](https://www.convallax.com/predict) | Options Trading | Polygon | Rp 100.000 | $6 |
+| [MeyHub Quiz Bot](https://github.com/rmndkyl/meyhub-bot) | [meyhub.io](https://meyhub.io) | Daily Quiz + Referral | Base (RWA) | Rp 120.000 | $8 |
+| [PeakAI Bot](https://github.com/rmndkyl/peakai-bot) | [takeapeak.ai](https://www.takeapeak.ai/genesis) | Daily Check-in + Referral | EVM | Rp 120.000 | $8 |
+| [Inception Bot](https://github.com/rmndkyl/inception-bot) | [inception.dachain.io](https://inception.dachain.io) | Testnet + Badges + Faucet | DAC Chain | Rp 120.000 | $8 |
+| [Chesto Bot](https://github.com/rmndkyl/chesto-bot) | [chesto.ai](https://chesto.ai) | KARMA + USDC Social Tasks | Base | Rp 120.000 | $8 |
 
 ## Bundle Pricing
 
 | Bundle | Description | Price (IDR) | Price (USD) | Savings |
 |--------|-------------|-------------|-------------|---------|
-| **Starter** | Pick any 3 scripts | Rp 175.000 | ~$11 | 20% off |
-| **Pro** | All 15 scripts | Rp 720.000 | ~$45 | 30% off |
-| **VIP Monthly** | All scripts + updates, 1 month | Rp 200.000/bulan | ~$13/month | Best value |
+| **Starter** | Pick any 3 scripts | Rp 250.000 | ~$16 | 20% off |
+| **Pro** | All 15 scripts | Rp 1.100.000 | ~$70 | 30% off |
+| **VIP Monthly** | All scripts + updates, 1 month | Rp 300.000/bulan | ~$19/month | Best value |
 
 ## How to Purchase
 
@@ -60,7 +60,7 @@
 | **Telegram** | [@rmndkyl](https://t.me/rmndkyl) |
 | **Channel** | [@layerairdrop](https://t.me/layerairdrop) |
 | **Discussion** | [@layerairdropdiskusi](https://t.me/layerairdropdiskusi) |
-| **Discord** | [discord.gg/layerairdrop](https://discord.gg/layerairdrop) |
+| **Discord** | [discord.gg/ZK2NVkfSNn](https://discord.gg/ZK2NVkfSNn) |
 | **GitHub Org** | [github.com/layerairdrop](https://github.com/layerairdrop) |
 
 ---
