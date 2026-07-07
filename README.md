@@ -60,7 +60,7 @@
 | **Telegram** | [@rmndkyl](https://t.me/rmndkyl) |
 | **Channel** | [@layerairdrop](https://t.me/layerairdrop) |
 | **Discussion** | [@layerairdropdiskusi](https://t.me/layerairdropdiskusi) |
-| **Discord** | [discord.gg/ZK2NVkfSNn](https://discord.gg/ZK2NVkfSNn) |
+| **Discord** | [discord.gg/layerairdrop](https://discord.gg/layerairdrop) |
 | **GitHub Org** | [github.com/layerairdrop](https://github.com/layerairdrop) |
 
 ---
