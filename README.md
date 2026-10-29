@@ -26,6 +26,7 @@
 | [Inception Bot](https://github.com/rmndkyl/inception-bot) | [inception.dachain.io](https://inception.dachain.io) | Testnet + Badges + Faucet | DAC Chain | Rp 120.000 | $8 |
 | [Chesto Bot](https://github.com/rmndkyl/chesto-bot) | [chesto.ai](https://chesto.ai) | KARMA + USDC Social Tasks | Base | Rp 120.000 | $8 |
 | [AlloX Bot](https://github.com/rmndkyl/allox-bot) | [allox.ai](https://app.allox.ai) | XP Social + Portfolio | Multi-chain | Rp 80.000 | $5 |
+| [Luxa Bot](https://github.com/rmndkyl/luxa-bot) | [luxaecosystem.xyz](https://luxaecosystem.xyz) | TG Mining (Type E) | Cosmos L1 | Rp 65.000 | $4 |
 
 ## Bundle Pricing
 
