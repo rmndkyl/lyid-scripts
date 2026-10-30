@@ -1,0 +1,7 @@
+node_modules/
+config.json
+privateKey.txt
+accounts.json
+.env
+tokens.json
+proxy.txt

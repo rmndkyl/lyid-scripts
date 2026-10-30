@@ -27,13 +27,14 @@
 | [Chesto Bot](https://github.com/rmndkyl/chesto-bot) | [chesto.ai](https://chesto.ai) | KARMA + USDC Social Tasks | Base | Rp 120.000 | $8 |
 | [AlloX Bot](https://github.com/rmndkyl/allox-bot) | [allox.ai](https://app.allox.ai) | XP Social + Portfolio | Multi-chain | Rp 80.000 | $5 |
 | [Luxa Bot](https://github.com/rmndkyl/luxa-bot) | [luxaecosystem.xyz](https://luxaecosystem.xyz) | TG Mining (Type E) | Cosmos L1 | Rp 65.000 | $4 |
+| [Bull Games Bot](https://github.com/rmndkyl/bullgems-bot) | [gem.bullshot.io](https://gem.bullshot.io) | Mining + Quests | Base (EVM) | Rp 80.000 | $5 |
 
 ## Bundle Pricing
 
 | Bundle | Description | Price (IDR) | Price (USD) | Savings |
 |--------|-------------|-------------|-------------|---------|
 | **Starter** | Pick any 3 scripts | Rp 250.000 | ~$16 | 20% off |
-| **Pro** | All 16 scripts | Rp 1.180.000 | ~$75 | 30% off |
+| **Pro** | All 17 scripts | Rp 1.250.000 | ~$80 | 30% off |
 | **VIP Monthly** | All scripts + updates, 1 month | Rp 300.000/bulan | ~$19/month | Best value |
 
 ## How to Purchase
