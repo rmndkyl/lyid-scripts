@@ -28,6 +28,7 @@
 | [AlloX Bot](https://github.com/rmndkyl/allox-bot) | [allox.ai](https://app.allox.ai) | XP Social + Portfolio | Multi-chain | Rp 80.000 | $5 |
 | [Luxa Bot](https://github.com/rmndkyl/luxa-bot) | [luxaecosystem.xyz](https://luxaecosystem.xyz) | TG Mining (Type E) | Cosmos L1 | Rp 65.000 | $4 |
 | [Bull Games Bot](https://github.com/rmndkyl/bullgems-bot) | [gem.bullshot.io](https://gem.bullshot.io) | Mining + Quests | Base (EVM) | Rp 80.000 | $5 |
+| [Tzero Bot](https://github.com/rmndkyl/tzero-bot) | [testnet.tzer0.fun](https://testnet.tzer0.fun) | Testnet Launchpad (bonding curve) | Base Sepolia | Rp 100.000 | $6 |
 
 ## Bundle Pricing
 
