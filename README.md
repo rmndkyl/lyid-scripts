@@ -27,7 +27,7 @@
 | [Chesto Bot](https://github.com/rmndkyl/chesto-bot) | [chesto.ai](https://chesto.ai) | KARMA + USDC Social Tasks | Base | Rp 120.000 | $8 |
 | [AlloX Bot](https://github.com/rmndkyl/allox-bot) | [allox.ai](https://app.allox.ai) | XP Social + Portfolio | Multi-chain | Rp 80.000 | $5 |
 | [Luxa Bot](https://github.com/rmndkyl/luxa-bot) | [luxaecosystem.xyz](https://luxaecosystem.xyz) | TG Mining (Type E) | Cosmos L1 | Rp 65.000 | $4 |
-| [Bull Games Bot](https://github.com/rmndkyl/bullgems-bot) | [gem.bullshot.io](https://gem.bullshot.io) | Mining + Quests + Auto Upgrade / Equipment / Achievements | Base (EVM) | Rp 95.000 | $6 |
+| [Bull Games Bot](https://github.com/rmndkyl/bullgems-bot) | [gem.bullshot.io](https://gem.bullshot.io) | Mining + Quests + Auto Upgrade / Equipment / Achievements + Token Cache & Humanisasi | Base (EVM) | Rp 95.000 | $6 |
 
 ## Bundle Pricing
 
