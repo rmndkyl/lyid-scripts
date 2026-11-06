@@ -29,13 +29,14 @@
 | [Luxa Bot](https://github.com/rmndkyl/luxa-bot) | [luxaecosystem.xyz](https://luxaecosystem.xyz) | TG Mining (Type E) | Cosmos L1 | Rp 65.000 | $4 |
 | [Bull Games Bot](https://github.com/rmndkyl/bullgems-bot) | [gem.bullshot.io](https://gem.bullshot.io) | Mining + Quests + Auto Upgrade / Equipment / Achievements + Token Cache & Humanisasi | Base (EVM) | Rp 95.000 | $6 |
 | [Tzero Bot](https://github.com/rmndkyl/tzero-bot) | [testnet.tzer0.fun](https://testnet.tzer0.fun) | Testnet Launchpad (bonding curve) | Base Sepolia | Rp 100.000 | $6 |
+| [nGRND Gold Protocol Bot](https://github.com/rmndkyl/ngrnd-bot) | [digitsbt.ngrndrewards.com](https://digitsbt.ngrndrewards.com/sbt/tasks) | Daily Streak + Quest Auto-Verify (2 campaign) | Off-chain (RWA Gold) | Rp 95.000 | $6 |
 
 ## Bundle Pricing
 
 | Bundle | Description | Price (IDR) | Price (USD) | Savings |
 |--------|-------------|-------------|-------------|---------|
 | **Starter** | Pick any 3 scripts | Rp 250.000 | ~$16 | 20% off |
-| **Pro** | All 17 scripts | Rp 1.250.000 | ~$80 | 30% off |
+| **Pro** | All 18 scripts | Rp 1.250.000 | ~$80 | 30% off |
 | **VIP Monthly** | All scripts + updates, 1 month | Rp 300.000/bulan | ~$19/month | Best value |
 
 ## How to Purchase
