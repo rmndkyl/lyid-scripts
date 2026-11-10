@@ -31,13 +31,14 @@
 | [Tzero Bot](https://github.com/rmndkyl/tzero-bot) | [testnet.tzer0.fun](https://testnet.tzer0.fun) | Testnet Launchpad (bonding curve) | Base Sepolia | Rp 100.000 | $6 |
 | [nGRND Gold Protocol Bot](https://github.com/rmndkyl/ngrnd-bot) | [digitsbt.ngrndrewards.com](https://digitsbt.ngrndrewards.com/sbt/tasks) | Daily Streak + Quest Auto-Verify (2 campaign) | Off-chain (RWA Gold) | Rp 95.000 | $6 |
 | [9Chain Community Bot](https://github.com/rmndkyl/9chain-bot) | [9chain.com](https://www.9chain.com) | Simulated Node Farming (TOTP auth, auto taps 1000/day, daily gift, ROI upgrade) | 9Chain L1 (off-chain points) | Rp 65.000 | $4 |
+| [My Age Bot](https://github.com/rmndkyl/myage-bot) | [myageapp.xyz](https://myageapp.xyz) | Telegram Mini App Farming (initData otomatis via MTProto, tasks, daily, spin, mystery, vault) | TON ($AGE / $GRAM) | Rp 95.000 | $6 |
 
 ## Bundle Pricing
 
 | Bundle | Description | Price (IDR) | Price (USD) | Savings |
 |--------|-------------|-------------|-------------|---------|
 | **Starter** | Pick any 3 scripts | Rp 250.000 | ~$16 | 20% off |
-| **Pro** | All 21 scripts | Rp 1.250.000 | ~$80 | 30% off |
+| **Pro** | All 22 scripts | Rp 1.650.000 | ~$100 | 30% off |
 | **VIP Monthly** | All scripts + updates, 1 month | Rp 300.000/bulan | ~$19/month | Best value |
 
 ## How to Purchase
