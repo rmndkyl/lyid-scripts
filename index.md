@@ -40,7 +40,7 @@ Harga resmi & daftar lengkap ada di [README](README.md). Tabel ini cermin ringka
 
 ## Bundle Deals
 
-- **Starter Pack**: pilih 3 script, Rp 250K
+- **Starter Pack**: pilih 3 script, diskon 20% dari total ketiganya (Rp 168K - Rp 360K)
 - **Pro Pack**: semua 23 script, Rp 1.730K (30% off)
 - **VIP**: Rp 300K/bulan, semua script + update
 
