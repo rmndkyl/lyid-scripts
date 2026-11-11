@@ -33,13 +33,14 @@
 | [9Chain Community Bot](https://github.com/rmndkyl/9chain-bot) | [9chain.com](https://www.9chain.com) | Simulated Node Farming (TOTP auth, auto taps 1000/day, daily gift, ROI upgrade) | 9Chain L1 (off-chain points) | Rp 65.000 | $4 |
 | [My Age Bot](https://github.com/rmndkyl/myage-bot) | [myageapp.xyz](https://myageapp.xyz) | Telegram Mini App Farming (initData otomatis via MTProto, tasks, daily, spin, mystery, vault) | TON ($AGE / $GRAM) | Rp 95.000 | $6 |
 | [TastyCo Bot](https://github.com/rmndkyl/tastyco-bot) | [app.tastyco.io](https://app.tastyco.io) | Daily Rewards Ladder (500 → 50.000 UP) + Weekly Quiz auto (jawaban dari metadata) + Quest Claim (COMPLETED **dan** AVAILABLE-with-satisfied-progress), humanisasi slot per wallet | BNB Chain ($TASTY) | Rp 95.000 | $6 |
+| [Elyon Bot](https://github.com/rmndkyl/elyon-bot) | [airdrop.elyon.network](https://airdrop.elyon.network) | Testnet Quest (18 task: faucet harian, transfer, mint badge, delegate) + login SIWE + auto-solve anti-bot PoW & captcha SVG + humanisasi per wallet | Elyon (EVM testnet) | Rp 80.000 | $5 |
 
 ## Bundle Pricing
 
 | Bundle | Description | Price (IDR) | Price (USD) | Savings |
 |--------|-------------|-------------|-------------|---------|
 | **Starter** | Pick any 3 scripts | from Rp 168.000 (20% off the three) | ~$11 | 20% off |
-| **Pro** | All 23 scripts | Rp 1.730.000 | ~$110 | 30% off |
+| **Pro** | All 24 scripts | Rp 1.785.000 | ~$110 | 30% off |
 | **VIP Monthly** | All scripts + updates, 1 month | Rp 300.000/bulan | ~$19/month | Best value |
 
 ## How to Purchase
