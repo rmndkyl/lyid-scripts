@@ -30,6 +30,7 @@ Harga resmi & daftar lengkap ada di [README](README.md). Tabel ini cermin ringka
 | 22 | My Age | TON | Telegram mini app farming (initData via MTProto) | Rp 95K | [rmndkyl/myage-bot](https://github.com/rmndkyl/myage-bot) |
 | 23 | TastyCo | BNB Chain | Daily rewards ladder + weekly quiz + quest claim | Rp 95K | [rmndkyl/tastyco-bot](https://github.com/rmndkyl/tastyco-bot) |
 | 24 | Elyon | Elyon (EVM testnet) | Testnet quest (18 task) + SIWE + auto-solve PoW & captcha SVG | Rp 80K | [rmndkyl/elyon-bot](https://github.com/rmndkyl/elyon-bot) |
+| 25 | RocX | Base Sepolia | Testnet AE farming (SIWE, PoA EIP-712 votes, vault deposit) | Rp 95K | [rmndkyl/rocx-bot](https://github.com/rmndkyl/rocx-bot) |
 
 ## Pricing
 
@@ -42,7 +43,7 @@ Harga resmi & daftar lengkap ada di [README](README.md). Tabel ini cermin ringka
 ## Bundle Deals
 
 - **Starter Pack**: pilih 3 script, diskon 20% dari total ketiganya (Rp 168K - Rp 360K)
-- **Pro Pack**: semua 24 script, Rp 1.785K (30% off)
+- **Pro Pack**: semua 25 script, Rp 1.785K (30% off)
 - **VIP**: Rp 300K/bulan, semua script + update
 
 ## Contact
