@@ -36,13 +36,14 @@
 | [Elyon Bot](https://github.com/rmndkyl/elyon-bot) | [airdrop.elyon.network](https://airdrop.elyon.network) | Testnet Quest (18 task: faucet harian, transfer, mint badge, delegate) + login SIWE + auto-solve anti-bot PoW & captcha SVG + humanisasi per wallet | Elyon (EVM testnet) | Rp 80.000 | $5 |
 | [Lucia Bot](https://github.com/rmndkyl/lucia-bot) | [airdrop.luciaprotocol.com](https://airdrop.luciaprotocol.com) | Airdrop Points Quest | EVM | Rp 65.000 | $4 |
 | [Polyester Bot](https://github.com/rmndkyl/polyester-bot) | [testnet.polyester.com](https://testnet.polyester.com) | Daily Paper Assets Claim (Ed25519 signed REST, 0 dependency) + optional paper order activity, humanisasi per akun | Polyester Chain (testnet) | Rp 80.000 | $5 |
+| [ZXOXO Bot](https://github.com/rmndkyl/zxoxo-bot) | [zxoxo.xyz](https://zxoxo.xyz) | Off-chain mining farmer: claim ZXO, beli rig (ladder 800-24.000), overclock, jump untuk misi + pantau access signal. Cookie auth, tanpa private key, humanisasi persona per wallet | ZXOXO (LayerZero testnet theme) | Rp 65.000 | $4 |
 
 ## Bundle Pricing
 
 | Bundle | Description | Price (IDR) | Price (USD) | Savings |
 |--------|-------------|-------------|-------------|---------|
 | **Starter** | Pick any 3 scripts | from Rp 168.000 (20% off the three) | ~$11 | 20% off |
-| **Pro** | All 26 scripts | Rp 1.886.500 | ~$127 | 30% off |
+| **Pro** | All 27 scripts | Rp 1.932.000 | ~$129 | 30% off |
 | **VIP Monthly** | All scripts + updates, 1 month | Rp 300.000/bulan | ~$19/month | Best value |
 
 ## How to Purchase
